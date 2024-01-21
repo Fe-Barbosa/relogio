@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+input {
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+
+}
+
+#horario {
+    font-size: 70pt;
+}
+
